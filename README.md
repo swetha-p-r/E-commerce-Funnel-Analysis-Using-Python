@@ -123,16 +123,6 @@ Based on the analysis, the following actions could be considered:
 4. **Investigate Regional Opportunities:** Explore why the East region has a relatively large user base but a lower conversion rate.
 5. **Strengthen Product Strategies:** Review inventory, promotions and marketing opportunities for high-performing categories such as Electronics and Sports.
 
-## Limitations
-
-- The dataset covers a limited period of approximately one month.
-- Each user has one recorded session in the available dataset, so repeat-customer behaviour cannot be evaluated.
-- The dataset does not provide detailed payment failure reasons, checkout errors or website performance metrics.
-- The currency of the revenue values is not specified.
-- The official meaning of `Bonus Flag` is not documented, so its interpretation requires caution.
-
-These limitations should be considered when interpreting the findings and making business recommendations.
-
 ## Conclusion
 
 This project demonstrates how Python can be used to clean, explore and analyse e-commerce event data to understand customer progression through a shopping funnel.
