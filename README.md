@@ -41,7 +41,7 @@ Each row represents one recorded event during a user's shopping session.
 | Channel | Marketing channel |
 | Product Category | Category of the product |
 | Revenue | Revenue associated with the event |
-| Bonus Flag | Yes/No indicator; official meaning is not provided |
+| Bonus Flag | Yes/No indicator |
 
 ## Tools & Technologies
 
